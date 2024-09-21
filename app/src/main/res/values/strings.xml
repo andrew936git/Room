@@ -3,4 +3,6 @@
     <string name="surnameTVhint">Фамилия</string>
     <string name="phoneETHint">Телефон</string>
     <string name="saveButonText">Сохранить</string>
+    <string name="nameETHint">Имя</string>
+    <string name="delete_image">delete image</string>
 </resources>
